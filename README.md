@@ -1,1 +1,1 @@
-"#title" 
+This is an android application in which the intent is to help others find jobs. currently this app scrapes postings across all cragslist pages to find jobs and gigs that are relevant to you. The app is coded in a way that other types of input(job sources) could be added quite easily. 
